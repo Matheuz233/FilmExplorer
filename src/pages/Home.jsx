@@ -1,7 +1,11 @@
+import { useState, useEffect } from "react";
+
+const moviesURL = import.meta.VITE_API;
+const apiKey = import.meta.VITE_API_KEY;
+
 const Home = () => {
-    return (
-        <div>Home Do Brasl</div>
-    )
+    console.log(moviesURL, apiKey);  
+    return <div>Home</div>;
 }
 
-export default Home
+export default Home;

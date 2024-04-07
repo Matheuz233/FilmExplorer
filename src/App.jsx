@@ -7,13 +7,13 @@ import './App.css';
 function App() {
 
   return (
-    <> 
-      
+    <div className='App'> 
       <Navbar />
-      <h1>Movies Lib</h1>
-      
+
+      <h2>Movie Lib</h2>
       <Outlet />
-    </>
+
+    </div>
   )
 }
 
