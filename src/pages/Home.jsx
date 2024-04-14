@@ -25,7 +25,7 @@ const Home = () => {
     }, [])
 
     return (
-        <div className="Container">
+        <div className="container">
             <h2 className="title">Melhores Filmes:</h2>
             <div className="movies_container">
                 {topMovies.length === 0 && <p>Carregando...</p>}

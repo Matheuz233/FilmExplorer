@@ -19,7 +19,7 @@ export const Navbar = () => {
     return (
         <nav id="navbar">
             <h2>
-                <Link to="/"><BiCameraMovie />MoviesLib</Link>
+                <Link to="/"><BiCameraMovie />FilmExplorer</Link>
             </h2>
             <form onSubmit={hadleSubmit}>
                 <input type="text" placeholder='Busque um filme' onChange={(e) => setSearch(e.target.value)} value={search} />

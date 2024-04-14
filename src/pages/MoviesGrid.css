@@ -6,7 +6,7 @@
 }
 
 .title .query-text{
-    color: #F7D354;
+    color: #248eff;
 }
 
 .movies_container{
@@ -36,12 +36,12 @@
 }
 
 .movies_container div svg{
-    color: #f7d354;
+    color: #248eff ;
 }
 
 .movies_container div a{
-    background-color: #f7d354;
-    border: 2px solid #F7D354;
+    background-color: #248eff ;
+    border: 2px solid #248eff ;
     border-radius: 4px;
     color: #000;
     padding: 1rem 0.5rem;
@@ -53,5 +53,5 @@
 
 .movies_container div a:hover{
     background-color: transparent;
-    color: #F7D354;
+    color: #248eff ;
 }
