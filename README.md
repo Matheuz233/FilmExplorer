@@ -9,6 +9,9 @@ FilmExplorer é um projeto de site desenvolvido em React, consumindo a API do TM
 Segue abaixo o vídeo de demonstração da aplicação:
 
 
+https://github.com/Matheuz233/FilmExplorer/assets/138679799/607eeaa0-4b49-41d6-951b-d11cacff57ac
+
+
 ## Link de Acesso
 
 
@@ -17,7 +20,7 @@ Segue abaixo o vídeo de demonstração da aplicação:
 ## Funcionalidades
 
 - Recomendação dos melhores filmes;
-- Funcão de busca;
+- Função de busca;
 - Navegação entre os filmes;
 - Informações detalhada dos filmes;
 
