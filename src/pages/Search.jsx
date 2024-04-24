@@ -29,7 +29,7 @@ const Search = () => {
     }, [query])
     
     return (
-        <div className="Container">
+        <div className="container">
             <h2 className="title">Resultados para: <span className="query-text">{query}</span></h2>
             <div className="movies_container">
                 {movies.length === 0 && <p>Carregando...</p>}
