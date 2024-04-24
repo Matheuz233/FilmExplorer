@@ -1,8 +1,37 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# FilmExplorer
 
-Currently, two official plugins are available:
+FilmExplorer é um projeto de site desenvolvido em React, consumindo a API do TMDB, que oferece uma plataforma intuitiva para explorar uma vasta coleção de filmes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Demonstração
+
+Segue abaixo o vídeo de demonstração da aplicação:
+
+
+## Link de Acesso
+
+
+
+[Clique Aqui](https://film-explorer-peach.vercel.app/) para acessar a implantação da aplicação.
+## Funcionalidades
+
+- Recomendação dos melhores filmes;
+- Funcão de busca;
+- Navegação entre os filmes;
+- Informações detalhada dos filmes;
+
+
+
+## Instalação
+
+Para instalar o projeto FilmExplore com npm, execute os seguintes comandos:
+
+```bash
+  npm install
+  npm run dev
+```
+    
+## Referência
+
+ - [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=XqxUHVVO7-U)
